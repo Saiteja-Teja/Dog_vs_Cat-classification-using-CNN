@@ -34,7 +34,7 @@ This project implements a **Convolutional Neural Network (CNN)** using **PyTorch
 ## 📂 Dataset
 This project uses the **Dogs vs Cats dataset from Kaggle**.
 
-🔗 https://www.kaggle.com/c/dogs-vs-cats
+🔗 https://www.kaggle.com/datasets/vishallazrus/cat-vs-dog-image-classification-making-prediction/discussion?sort=hotness
 
 The dataset is **not included** in this repository due to size and licensing restrictions.
 
